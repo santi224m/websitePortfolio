@@ -1,0 +1,12 @@
+p {
+	text-align: center;
+}
+
+p a, p a:hover {
+	color: black;
+	text-decoration: none;
+}
+
+body {
+  height: 100%;
+}

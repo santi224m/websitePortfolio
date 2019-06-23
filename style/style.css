@@ -1,5 +1,5 @@
 body {
-  background: url(../images/websitePortfolioBackground.jpg);
+  background: url(../images/websiteBack.jpg);
   background-size: cover;
   background-position: 10% 10%;
   /* font-family: 'Lato', sans-serif; */
@@ -28,9 +28,7 @@ hr {
   border-bottom: 1px solid rgba(0, 0, 0, 0.4);
 }
 
-.navbar-light .navbar-brand {
-	margin: auto;
-}
+
 
 button a:hover {
   color: black;
