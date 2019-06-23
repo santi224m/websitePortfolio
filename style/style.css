@@ -1,0 +1,54 @@
+body {
+  background: url(../images/websitePortfolioBackground.jpg);
+  background-size: cover;
+  background-position: 10% 10%;
+  /* font-family: 'Lato', sans-serif; */
+}
+
+html {
+  height: 100%;
+}
+
+#content {
+  text-align: center;
+  padding-top: 25%;
+  color: white;
+  text-shadow: 0px 4px 3px rgba(0, 0, 0, 0.4),
+               0px 8px 13px rgba(0, 0, 0, 0.1),
+               0px 18px 23px rgba(0, 0, 0, 0.4);
+}
+
+button a {
+  color: black;
+}
+
+hr {
+  width: 400px;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.4);
+}
+
+.navbar-light .navbar-brand {
+	margin: auto;
+}
+
+button a:hover {
+  color: black;
+  text-decoration: none;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 5em;
+}
+
+
+.btn-group-lg>.btn, .btn-lg {
+	padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+	color: #333;
+    background-color: #fff;
+    border-color: #ccc;
+}
